@@ -19,7 +19,8 @@ Thumbs.db
 #!/vendor
 #/vendor/*
 #!/vendor/mdmsoft
-/vendor
+/vendor/studio-42 - 副本
+/vendor/yiisoft/yii2-jui - 副本
 /composer.lock
 
 # composer itself is not needed
